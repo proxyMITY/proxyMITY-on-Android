@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProxyMITY>
+  <Details>
+    <videoName>diffrential.flv</videoName>
+    <CourseName>Engineering Mathmatics</CourseName>
+    <LectureName>Differential Equations</LectureName>
+    <Speaker>Prof. G.K. Srinivasan</Speaker>
+    <Institute>IIT Bombay</Institute>
+  </Details>
+  <Theme name="Overview of course">
+    <SlideName>Overview of course</SlideName>
+    <StartTime>00:00:33</StartTime>
+    <EndTime>00:00:38</EndTime>
+  </Theme>
+  <Theme name="Pre Requesties">
+    <SlideName>Pre Requesties</SlideName>
+    <StartTime>00:00:38</StartTime>
+    <EndTime>00:00:41</EndTime>
+  </Theme>
+  <Theme name="Primary Text Books">
+    <SlideName>Primary Text Books</SlideName>
+    <StartTime>00:00:41</StartTime>
+    <EndTime>00:00:48</EndTime>
+  </Theme>
+  <Theme name="Ordinary Diffrential Equation">
+    <SlideName>Ordinary Diffrential Equation</SlideName>
+    <StartTime>00:00:48</StartTime>
+    <EndTime>00:02:06</EndTime>
+  </Theme>
+  
+  <Theme name="Examples">
+    <SlideName>Examples</SlideName>
+    <StartTime>00:02:06</StartTime>
+    <EndTime>00:03:58</EndTime>
+  </Theme>
+  <Theme name="Simplify the Expression">
+    <SlideName>Simplify the Expression</SlideName>
+    <StartTime>00:03:58</StartTime>
+    <EndTime>00:08:40</EndTime>
+  </Theme>
+  <Theme name="Simplify the Expression contd">
+    <SlideName>Simplify the Expression contd</SlideName>
+    <StartTime>00:03:58</StartTime>
+    <EndTime>00:09:35</EndTime>
+  </Theme>
+ </ProxyMITY>

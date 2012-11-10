@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProxyMITY>
+  <Details>
+    <videoName>DBMS_L3_Introduction to SQL(WT).mp4</videoName>
+    <CourseName>DBMS</CourseName>
+    <LectureName>SQL</LectureName>
+    <Speaker>Prof. Sudarshan</Speaker>
+    <Institute>IIT Bombay</Institute>
+  </Details>
+  <Theme name="Introduction to SQL">
+    <SlideName>Title</SlideName>
+    <StartTime>00:00:00</StartTime>
+    <EndTime>00:00:12</EndTime>
+  </Theme>
+  <Theme name="Introduction to SQL">
+    <SlideName>Introduction To SQL</SlideName>
+    <StartTime>00:00:25</StartTime>
+    <EndTime>00:01:29</EndTime>
+  </Theme>
+  <Theme name="History">
+    <SlideName>History</SlideName>
+    <StartTime>00:01:29</StartTime>
+    <EndTime>00:07:47</EndTime>
+  </Theme>
+  <Theme name="Domain Types in SQL">
+    <SlideName>Domain Types in SQL</SlideName>
+    <StartTime>00:07:47</StartTime>
+    <EndTime>00:09:59</EndTime>
+  </Theme>
+ </ProxyMITY>
